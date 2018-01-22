@@ -3,4 +3,4 @@ The code use a database of 347 single nucleotide polymorphisms (SNPs) expression
 
 We include a list of variants (SNPs) on metabolic pathways to evaluate groups of SNPs as class predictors. These are included in the database, with the code employed to score pathway lists on individuals. 
 
-In this repository you can find only the codes. An database example is included to verify the format of the data.
+In this repository you can find only the codes. No data is included.
